@@ -1,0 +1,50 @@
+
+=== vit_tiny_patch16_224 ===
+[gpu] used=28876 MB (limit 28000)
+[gpu] too busy, sleeping 600s (retry 1/6)
+[gpu] used=28896 MB (limit 28000)
+[gpu] too busy, sleeping 600s (retry 2/6)
+[gpu] used=30392 MB (limit 28000)
+[gpu] too busy, sleeping 600s (retry 3/6)
+[gpu] used=30772 MB (limit 28000)
+[gpu] too busy, sleeping 600s (retry 4/6)
+[gpu] used=30433 MB (limit 28000)
+[gpu] too busy, sleeping 600s (retry 5/6)
+[gpu] used=26539 MB (limit 28000)
+[info] params=5.72M  num_patches=196
+[done] {'model_name': 'vit_tiny_patch16_224', 'params_M': 5.717, 'num_patches': 196, 'n_images_evaluated': 10000, 'mean_bits_per_image': 5.48565, 'mean_bits_per_patch': 0.02798801, 'mean_bits_per_pixel': 3.64427e-05, 'mean_ce_vs_uniform': 14.825408, 'peak_vram_mb': 29.4, 'elapsed_seconds': 3016.2, 'status': 'ok'}
+
+=== vit_small_patch16_224 ===
+[gpu] used=27186 MB (limit 28000)
+[info] params=22.05M  num_patches=196
+[done] {'model_name': 'vit_small_patch16_224', 'params_M': 22.051, 'num_patches': 196, 'n_images_evaluated': 10000, 'mean_bits_per_image': 4.319997, 'mean_bits_per_patch': 0.0220408, 'mean_bits_per_pixel': 2.8699e-05, 'mean_ce_vs_uniform': 15.303571, 'peak_vram_mb': 69.7, 'elapsed_seconds': 16.4, 'status': 'ok'}
+
+=== vit_base_patch16_224 ===
+[gpu] used=27208 MB (limit 28000)
+[info] params=86.57M  num_patches=196
+[done] {'model_name': 'vit_base_patch16_224', 'params_M': 86.568, 'num_patches': 196, 'n_images_evaluated': 10000, 'mean_bits_per_image': 4.785037, 'mean_bits_per_patch': 0.02441346, 'mean_bits_per_pixel': 3.17884e-05, 'mean_ce_vs_uniform': 12.71662, 'peak_vram_mb': 214.8, 'elapsed_seconds': 26.4, 'status': 'ok'}
+
+=== deit_tiny_patch16_224 ===
+[gpu] used=27202 MB (limit 28000)
+[info] params=5.72M  num_patches=196
+[done] {'model_name': 'deit_tiny_patch16_224', 'params_M': 5.717, 'num_patches': 196, 'n_images_evaluated': 10000, 'mean_bits_per_image': 5.894323, 'mean_bits_per_patch': 0.03007308, 'mean_bits_per_pixel': 3.91577e-05, 'mean_ce_vs_uniform': 12.41361, 'peak_vram_mb': 29.4, 'elapsed_seconds': 14.9, 'status': 'ok'}
+
+=== deit_small_patch16_224 ===
+[gpu] used=27186 MB (limit 28000)
+[info] params=22.05M  num_patches=196
+[done] {'model_name': 'deit_small_patch16_224', 'params_M': 22.051, 'num_patches': 196, 'n_images_evaluated': 10000, 'mean_bits_per_image': 5.099947, 'mean_bits_per_patch': 0.02602014, 'mean_bits_per_pixel': 3.38804e-05, 'mean_ce_vs_uniform': 12.454852, 'peak_vram_mb': 69.7, 'elapsed_seconds': 16.9, 'status': 'ok'}
+
+=== deit_base_patch16_224 ===
+[gpu] used=27210 MB (limit 28000)
+[info] params=86.57M  num_patches=196
+[done] {'model_name': 'deit_base_patch16_224', 'params_M': 86.568, 'num_patches': 196, 'n_images_evaluated': 10000, 'mean_bits_per_image': 4.772056, 'mean_bits_per_patch': 0.02434722, 'mean_bits_per_pixel': 3.17021e-05, 'mean_ce_vs_uniform': 12.536542, 'peak_vram_mb': 216.4, 'elapsed_seconds': 28.7, 'status': 'ok'}
+
+=== swin_tiny_patch4_window7_224 ===
+[gpu] used=27202 MB (limit 28000)
+[info] params=28.29M  num_patches=3136
+[done] {'model_name': 'swin_tiny_patch4_window7_224', 'params_M': 28.288, 'num_patches': 3136, 'n_images_evaluated': 10000, 'mean_bits_per_image': 5.018742, 'mean_bits_per_patch': 0.00160036, 'mean_bits_per_pixel': 3.33409e-05, 'mean_ce_vs_uniform': 12.563039, 'peak_vram_mb': 127.0, 'elapsed_seconds': 23.2, 'status': 'ok'}
+
+=== swin_small_patch4_window7_224 ===
+[gpu] used=27206 MB (limit 28000)
+[info] params=49.61M  num_patches=3136
+[done] {'model_name': 'swin_small_patch4_window7_224', 'params_M': 49.606, 'num_patches': 3136, 'n_images_evaluated': 10000, 'mean_bits_per_image': 4.990372, 'mean_bits_per_patch': 0.00159132, 'mean_bits_per_pixel': 3.31524e-05, 'mean_ce_vs_uniform': 12.509525, 'peak_vram_mb': 170.6, 'elapsed_seconds': 29.5, 'status': 'ok'}
