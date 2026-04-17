@@ -12,6 +12,8 @@
 
 **[Windstorm-Institute/vision-basin](https://github.com/Windstorm-Institute/vision-basin)** — paper PDF, article HTML
 
+**Website article:** [windstorminstitute.org/articles/vision-basin.html](https://windstorminstitute.org/articles/vision-basin.html)
+
 **Zenodo:** DOI pending (preprint)
 
 ## Experiments
