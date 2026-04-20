@@ -2,7 +2,7 @@
 
 **Cross-Modal Throughput Measurement Reveals Modality-Specific Information Extraction Rates**
 
-[![Status: Preprint](https://img.shields.io/badge/Status-Preprint-orange)](#)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19672827-blue)](https://doi.org/10.5281/zenodo.19672827)
 [![License: MIT](https://img.shields.io/badge/Code-MIT-green)](https://opensource.org/licenses/MIT)
 [![License: CC BY 4.0](https://img.shields.io/badge/Data-CC_BY_4.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -14,7 +14,7 @@
 
 **Website article:** [windstorminstitute.org/articles/vision-basin.html](https://windstorminstitute.org/articles/vision-basin.html)
 
-**Zenodo:** DOI pending (preprint)
+**Zenodo (concept DOI, always-latest):** [10.5281/zenodo.19672827](https://doi.org/10.5281/zenodo.19672827) · **v2.2:** [10.5281/zenodo.19672828](https://doi.org/10.5281/zenodo.19672828)
 
 ## Experiments
 
