@@ -45,6 +45,14 @@ Training scripts are in the canonical repo: [Windstorm-Institute/throughput-basi
 
 ---
 
+## Discuss this code
+
+- **Bug, reproduction failure, or unexpected output?** → [Open an Issue](../../issues)
+- **Q&A — version compatibility, hardware, generalization to other inputs?** → [Start a Discussion](../../discussions)
+- **Discuss the paper itself** → [Comments on the website article](https://windstorminstitute.org/articles/vision-basin.html#comments) or [Issues on the Institute repo](https://github.com/Windstorm-Institute/vision-basin/issues)
+
+---
+
 ## The Windstorm Series
 
 | # | Paper | DOI |
