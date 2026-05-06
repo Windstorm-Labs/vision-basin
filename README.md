@@ -33,7 +33,7 @@
 
 ## Hardware
 
-- **GPU:** NVIDIA RTX 5090 (32 GB VRAM)
+- **GPU:** Current-generation Nvidia GPU (32 GB VRAM, CUDA)
 - **CPU:** Intel Core Ultra 9 285K (24 cores)
 - **RAM:** 256 GB
 - **OS:** Ubuntu 24.04, Python 3.12, PyTorch 2.11
